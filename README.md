@@ -1,3 +1,3 @@
-# algorithms-rs
+# lc-rs
 
 Leetcode Solutions
